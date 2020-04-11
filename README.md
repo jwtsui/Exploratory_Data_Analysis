@@ -1,4 +1,4 @@
-# Exploring_Fuel_Economy_Data
+# Exploratory_Data_Analysis
 Following (Fumbling?) Along with Tony Ojeda's 'Data Exploration with Python' Series
 
 Link to Series Articles:
